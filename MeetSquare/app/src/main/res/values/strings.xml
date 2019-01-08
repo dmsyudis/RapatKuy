@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">rapatkuy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="text_home">Home</string>
+    <string name="text_myaccount">My Account</string>
+    <string name="name_room">Ruang Belakang</string>
+    <string name="subname_room">Ruang Meeting</string>
+    <string name="desc_room">Deskripsi</string>
+    <string name="desc_room_detail">Ruangan yang sangat minimalis untuk 10 orang sangat cocok untuk rekan yang ingin melakukan meeting
+    itnernal dengan klien atau rekan bisnis dan memerlukan ruangan yang tenang dan berfokus pada tujuan meeting. Terletak di daerah Kuningan,
+    Jakarta Selatan yang merupakan salah satu pusat perkantoran terbesar di Jakarta. Berada di gedung perkantoran yang sangat
+    strategis dan mudah diakses dengan kendaraan umum. Gratis WIFI, air mineral, dan TV LCD. Ruang Diskusi, Ruang Interview
+    Ruang Audit, Tempat Konsultasi, Meeting perusahaan, Tempat Negosiasi, Ruang Presentasi, Ruang Kerja</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
